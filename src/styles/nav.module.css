@@ -1,0 +1,65 @@
+.nav {
+    width: fit-content;
+    height: 10%;
+    margin: auto;
+    border-left: none;
+    border-right: none;
+}
+.horizontalList {
+    display: inline-flex;
+    list-style-type: none;
+}
+.horizontalList > li {
+    padding: 0px;
+    background-color: var(--tertiary);
+    display: initial;
+    height: fit-content;
+    width: max-content;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+}
+.horizontalList > li > a {
+    padding: 15px;
+    background-color: var(--tertiary);
+    display: initial;
+    height: fit-content;
+    width: max-content;
+}
+.horizontalList > li > div > a {
+    padding: 15px;
+    background-color: var(--tertiary);
+    display: initial;
+    height: fit-content;
+    width: max-content;
+}
+.horizontalList > li > div > a:hover {
+    background-color: var(--secondary);
+    color: var(--textSecondary);
+}
+.horizontalList > li > a:hover {
+    background-color: var(--secondary);
+    color: var(--textSecondary);
+}
+.horizontalList > li > div > ul {
+    display: none;
+}
+.horizontalList > li:hover > div > ul {
+    margin-top: 15px;
+    position: absolute;
+    display: table-header-group;
+    padding-inline-start: 0px;
+    background-color: var(--tertiary);
+    color: var(--textPrimary);
+}
+.verticalList > li {
+    padding: 10px 20px;
+    margin: auto;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.5);
+}
+.horizontalList > li > div > ul > li:hover {
+    background-color: var(--secondary);
+    color: var(--textSecondary);
+}
+.verticalList {
+    list-style-type: none;
+    min-width: inherit;
+}

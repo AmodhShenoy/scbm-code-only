@@ -1,0 +1,36 @@
+[
+    {
+        "place": "National Institute of Technology, Karnataka",
+        "courses": [
+            "Construction Planning and Control (ODD 2015, ODD 2016, ODD 2017)",
+            "Project Management Software-Primavera (EVEN 2016, EVEN 2017, EVEN 2018)",
+            "Repair and Restoration of Structures (EVEN 2016, EVEN 2018)"
+        ]
+    },
+    {
+        "place": "NICMAR Campus, India",
+        "courses": [
+            "New Technologies and Materials (Fall 2012, 2014)",
+            "Construction Practice Workshop (Fall 2012, Spring 2013, Fall 2014)",
+            "Building Maintenance and Management (Spring 2013)",
+            "Construction Methods and Technologies (Fall 2013)",
+            "Project Management Software-Primavera (Spring 2015)",
+            "Construction Quality Management (Spring 2014, 2015)"
+        ]
+    },
+    {
+        "place": "Lawrence Technological University, USA)",
+        "courses": [
+            "Advance Steel Design (Summer 2010)",
+            "Finite Element Analysis (Fall 2010)"
+        ]
+    },
+    {
+        "place": "KIIT Deemed University, India)",
+        "courses": [
+            "Advanced Concrete Structures (EVEN 2012)",
+            "Construction Engineering Practices (EVEN 2012)",
+            "Civil Engineering Materials Laboratory (EVEN 2012)"
+        ]
+    }
+]

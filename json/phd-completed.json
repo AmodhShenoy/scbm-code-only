@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "<a href=\"https://www.researchgate.net/profile/Sanjukta_Sahoo2\">Dr. Sanjukta Sahoo</a>",
+        "dissertation": "Study on the Relevance of Carbonated Fly ash in Concrete and its Performance Assessment with respect to Control Concrete and Fly ash Concrete",
+        "defense-date": "27/04/2016",
+        "role": "Supervisor",
+        "location": "KIIT University"
+    },
+    {
+        "id": 2,
+        "name": "<a href=\"https://www.researchgate.net/profile/Shivaprasad_K_N\">Dr. Shivaprasad K N</a>",
+        "dissertation": "Sustainable Production of Fly Ash Based Coarse Aggregates and its Performance in Concrete",
+        "defense-date": "27/01/2020",
+        "role": "Supervisor",
+        "location": "NITK Surathkal"
+    },
+    {
+        "id": 3,
+        "name": "<a href=\"https://scholar.google.com/citations?user=ClHELSIAAAAJ&hl=en\">Dr. Sharan Kumar Goudar</a>",
+        "dissertation": "Determination of Engineering Properties of Steel Concrete Interface of Reinforced Concrete Exposed to Marine Environment",
+        "defense-date": "14/07/2020",
+        "role": "Supervisor",
+        "location": "NITK Surathkal"
+    }
+]

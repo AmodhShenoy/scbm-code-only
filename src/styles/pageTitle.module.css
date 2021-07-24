@@ -1,0 +1,5 @@
+.pageTitle{
+    width: 100%;
+    border-bottom: 1px solid var(--borderSecondary);
+    text-transform: capitalize;
+}

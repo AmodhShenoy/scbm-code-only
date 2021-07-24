@@ -1,0 +1,44 @@
+.carousel{
+    position: relative ;
+    width: fit-content;
+    display: inline-flex;
+    padding: 10px;
+}
+.carousel h3{
+    visibility: hidden;
+}
+.carousel:hover h3{
+    visibility: visible;
+}
+.carousel img{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 400px;
+    height: 400px;
+}
+.button{
+    position: absolute !important;
+    top:200px !important;
+    width: 50px !important;
+    opacity: 0.1;
+    height: 50px !important;
+}
+.next{
+    left: 360px !important;
+}
+.previous{
+    left: 10px !important;
+}
+.button:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+.title{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding: 10px;
+    background-color: #f5f5f599;
+    text-align: center;
+}
